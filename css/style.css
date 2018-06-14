@@ -1,0 +1,51 @@
+h1 {
+  background-color: lightpink;
+width: 65%;
+margin: auto;
+  color: cyan; 
+  font-family: impact; 
+  text-align: center; 
+  font-size: 500%;
+  
+}
+.div2 {
+  text-align: center; 
+font-size: 175%;
+color: white;
+font-family: courier;
+font-weight: bold;
+  background-color: lightpink;
+  width: 60%;
+  margin: auto;
+}
+body {
+  background-image: url(https://media.giphy.com/media/x3awv6KzndRRK/giphy.gif);
+}
+.wanted {
+  background-color: white;
+font-family: impact;
+color: red;
+font-size: 350%;
+text-align: center;
+}
+.for{
+font-size: 130%;
+font-family: courier;
+text-align: center;
+color:red;
+background-color: white;
+}
+
+.li2 { font-size: 300%;
+background-color: grey;
+margin: auto;
+width:80%;
+color: white;
+}
+.reward {font-family: impact;
+  color: red;
+  background-color: white;
+  margin: auto;
+  width:80%;
+  font-size: 350%;
+}
